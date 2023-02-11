@@ -2,6 +2,4 @@ Source: https://gitlab.com/codeching/kubernetes-multicontainer-application-react
 
 # Multicontainer application
 
-Multi container deployment kubernetes | React| Node.js | Postgres | Ingress Nginx | step by step
-
-
+Multi container deployment kubernetes | React| Node.js | Postgres | Ingress Nginx |
